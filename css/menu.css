@@ -1,0 +1,80 @@
+.overlay{
+	position:absolute;
+	top:0px;
+	left:0px;
+
+}
+
+.underlay{
+	position:absolute;
+	top:0px;
+	left:0px;
+
+ 	opacity: 0.4;
+    filter: alpha(opacity=40);
+
+	background-color: #3c3c3c;
+}
+
+
+.menu{
+	position:absolute;
+	top:0px;
+	left:0px;
+
+	width:240px;
+	height:240px;
+
+	background-color: #ffffff;
+}
+
+.ring{
+
+	position:absolute;
+	top:0px;
+	left:0px;
+
+	width:240px;
+	height:240px;
+
+	background-color: red;
+
+	border-radius: 50%;
+}
+
+.ringItemSpoke{
+	position:absolute;
+
+	top:100px;
+
+	width:240px;
+	height:20px;
+
+
+}
+
+.ringItem{	
+	position:absolute;
+	top:0px;
+	left:0px;
+
+	width:40px;
+	height:40px;
+
+	background-color: #000;
+
+}
+
+.ringIcon{	
+	position:absolute;
+	top:0px;
+	left:0px;
+
+	width:40px;
+	height:40px;
+
+	margin:5px;
+
+	background-color: #000;
+
+}
